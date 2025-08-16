@@ -233,3 +233,5 @@ Click [here](https://github.com/hiteshchoudhary/apihub/blob/main/CONTRIBUTING_CO
 [Swagger Docs](https://api.freeapi.app): https://api.freeapi.app
 
 NOTE: Swagger docs are auto generated from the `swagger.yaml` file. While running the project locally, make sure you change the url to `http://localhost:<port_from_.env>/api/v1` in the swagger docs `servers/url` field.
+#   a p i c h a i o r c o d e  
+ 
